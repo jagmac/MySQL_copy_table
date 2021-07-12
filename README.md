@@ -1,6 +1,8 @@
 # MySQL_copy_table
 
-To run this script you need python version 3.5 or newer and MySQL connector module, to install it run command:
+This script was done as a recruitment task. It is a simple script to copy data from one table of MySQL server
+to a table with same name on another MySQL server. To run this script you need python version 3.5 or newer
+and MySQL connector module, to install it run command:
 >$ pip install mysql-connector-python
 
 To run script run command:
